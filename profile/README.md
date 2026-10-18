@@ -14,7 +14,7 @@ Suno에 넣을 부를 수 있는 한국어 가사와 Style·Exclude·Title을 �
 
 **강의로 배우기**
 - 📖 [SUNO 작사의 모든 것](https://moket.kr/series/suno-lyrics-complete) (강의 글)
-- ▶️ [0강 영상](https://youtu.be/tbH2_OwaKoA) · 유튜브 채널 [@moket_kr](https://www.youtube.com/@moket_kr)
+- ▶️ [0강 영상](https://youtu.be/WdfmKrI3t0A) · 유튜브 채널 [모켓 Moket](https://www.youtube.com/@%EB%AA%A8%EC%BC%93moket)
 
 ---
 
